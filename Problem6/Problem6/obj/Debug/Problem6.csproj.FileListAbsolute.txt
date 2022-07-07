@@ -1,0 +1,6 @@
+F:\ahmed atef\Problem6\Problem6\bin\Debug\Problem6.exe.config
+F:\ahmed atef\Problem6\Problem6\bin\Debug\Problem6.exe
+F:\ahmed atef\Problem6\Problem6\bin\Debug\Problem6.pdb
+F:\ahmed atef\Problem6\Problem6\obj\Debug\Problem6.csprojResolveAssemblyReference.cache
+F:\ahmed atef\Problem6\Problem6\obj\Debug\Problem6.exe
+F:\ahmed atef\Problem6\Problem6\obj\Debug\Problem6.pdb
